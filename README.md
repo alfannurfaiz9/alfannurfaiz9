@@ -6,7 +6,7 @@
   </h3>
 
   <p style="margin-top: 10px;">
-    <a href="https://https://www.linkedin.com/in/alfan-nurfaiz/" target="_blank">
+    <a href="https://www.linkedin.com/in/alfan-nurfaiz/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:alfannurfaizwork@gmail.com">
@@ -79,7 +79,7 @@ I am a **Full-Stack Developer** with a strong focus on building scalable web app
 
 <div align="center">
 
-- **LinkedIn:** [linkedin.com/in/alfan-nurfiaz](https://www.linkedin.com/in/alfan-nurfaiz/)
+- **LinkedIn:** [linkedin.com/in/alfan-nurfaiz](https://www.linkedin.com/in/alfan-nurfaiz/)
 - **Email:** [alfannurfaizwork@gmail.com](mailto:alfannurfaizwork@gmail.com)
 
 <br/>
